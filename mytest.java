@@ -1,4 +1,7 @@
 class Action {
+  public void doISome() {
+    System.out.println("HOLA");
+  }
   public void doIt() {}
   public void doMore() {
     String a = "hello".toString();
