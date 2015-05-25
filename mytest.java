@@ -6,4 +6,7 @@ class Action {
     System.out.println(a);
     System.out.println("OK");
   }
+  public void doISome() {
+    System.out.println("HI");
+  }
 }
